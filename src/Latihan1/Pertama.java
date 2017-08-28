@@ -8,7 +8,7 @@ package Latihan1;
  *
  * @author BangKho
  */
-public class Pertama {
+class Pertama {
     private int a = 10;
     
     protected void protek(){
