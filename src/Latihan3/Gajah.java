@@ -11,10 +11,10 @@ package Latihan3;
  */
 public class Gajah extends Hewan{
     public static void testClassMethod(){
-        System.out.println("This Class Method in Hewan...");
+        System.out.println("This Class Method in Gajah...");
     }
     public void testInstanceMethod(){
-        System.out.println("This Instance Method in Hewan...");
+        System.out.println("This Instance Method in Gajah...");
     }
     public static void main(String []args){
         Gajah MyGajah = new Gajah();
