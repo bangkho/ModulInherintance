@@ -13,6 +13,7 @@ public class Gajah extends Hewan{
     public static void testClassMethod(){
         System.out.println("This Class Method in Gajah...");
     }
+    @Override
     public void testInstanceMethod(){
         System.out.println("This Instance Method in Gajah...");
     }
