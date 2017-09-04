@@ -29,10 +29,10 @@ public class Truck {
     }
     
     public void applybrake(int decrement){
-        speed = decrement;
+        speed -= decrement;
     }
     
     public void speedUp(int increment){
-        speed = increment;
+        speed += increment;
     }
 }
